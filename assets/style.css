@@ -1,0 +1,12 @@
+.add {
+    border: none;
+    background-color: green;
+    color: white;
+    padding: 3px 10px;
+}
+.clear {
+    border: none;
+    background-color: orangered;
+    color: white;
+    padding: 3px 10px;
+}
